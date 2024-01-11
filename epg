@@ -1,86 +1,36 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <tv>
-    <channel id="cctv1">
+    <channel id="CCTV1">
         <display-name lang="cn">CCTV1</display-name>
         <icon src="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv1.png" />
         <url>https://tv.cntv.cn</url>
     </channel>
-    <channel id="cctv2">
+    <channel id="CCTV2">
         <display-name lang="cn">CCTV2</display-name>
         <icon src="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv2.png" />
         <url>https://tv.cntv.cn</url>
     </channel>
-    <channel id="cctv3">
+    <channel id="CCTV3">
         <display-name lang="cn">CCTV3</display-name>
         <icon src="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv3.png" />
         <url>https://tv.cntv.cn</url>
     </channel>
-    <channel id="cctv4">
+    <channel id="CCTV4">
         <display-name lang="cn">CCTV4</display-name>
         <icon src="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv4.png" />
         <url>https://tv.cntv.cn</url>
     </channel>
-    <channel id="cctv5">
+    <channel id="CCTV5">
         <display-name lang="cn">CCTV5</display-name>
         <icon src="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv5.png" />
         <url>https://tv.cntv.cn</url>
     </channel>
-    <channel id="cctv5plus">
+    <channel id="CCTV5plus">
         <display-name lang="cn">CCTV5+</display-name>
         <icon src="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv5plus.png" />
         <url>https://tv.cntv.cn</url>
     </channel>
-    <channel id="cctv6">
-        <display-name lang="cn">CCTV6</display-name>
-        <icon src="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv6.png" />
-        <url>https://tv.cntv.cn</url>
-    </channel>
-    <channel id="cctv7">
-        <display-name lang="cn">CCTV7</display-name>
-        <icon src="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv7.png" />
-        <url>https://tv.cntv.cn</url>
-    </channel>
-    <channel id="cctv8">
-        <display-name lang="cn">CCTV8</display-name>
-        <icon src="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv8.png" />
-        <url>https://tv.cntv.cn</url>
-    </channel>
-    <channel id="cctvjilu">
-        <display-name lang="cn">CCTV9</display-name>
-        <icon src="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctvjilu.png" />
-        <url>https://tv.cntv.cn</url>
-    </channel>
-    <channel id="cctv10">
-        <display-name lang="cn">CCTV10</display-name>
-        <icon src="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv10.png" />
-        <url>https://tv.cntv.cn</url>
-    </channel>
-    <channel id="cctv11">
-        <display-name lang="cn">CCTV11</display-name>
-        <icon src="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv11.png" />
-        <url>https://tv.cntv.cn</url>
-    </channel>
-    <channel id="cctv12">
-        <display-name lang="cn">CCTV12</display-name>
-        <icon src="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv12.png" />
-        <url>https://tv.cntv.cn</url>
-    </channel>
-    <channel id="cctv13">
-        <display-name lang="cn">CCTV13</display-name>
-        <icon src="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv13.png" />
-        <url>https://tv.cntv.cn</url>
-    </channel>
-    <channel id="cctvchild">
-        <display-name lang="cn">CCTV14</display-name>
-        <icon src="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctvchild.png" />
-        <url>https://tv.cntv.cn</url>
-    </channel>
-    <channel id="cctv15">
-        <display-name lang="cn">CCTV15</display-name>
-        <icon src="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv15.png" />
-        <url>https://tv.cntv.cn</url>
-    </channel>
-    <channel id="cctv16">
+    <channel id="CCTV6">
         <display-name lang="cn">CCTV16</display-name>
         <icon src="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv16.png" />
         <url>https://tv.cntv.cn</url>
