@@ -168,12 +168,6 @@ CCTV17,http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
 
 卫视频道,#genre#
 北京卫视,http://103.45.68.47:666/gy/gy_lYcgFa/mkjd.php?ip=61.48.132.122:8014&id=bjws
-北京新闻,http://103.45.68.47:666/gy/gy_lYcgFa/mkjd.php?ip=61.48.132.122:8014&id=live1276
-北京财经,http://103.45.68.47:666/gy/gy_lYcgFa/mkjd.php?ip=61.48.132.122:8014&id=live1090
-北京文艺,http://103.45.68.47:666/gy/gy_lYcgFa/mkjd.php?ip=61.48.132.122:8014&id=live1045
-北京科教,http://103.45.68.47:666/gy/gy_lYcgFa/mkjd.php?ip=61.48.132.122:8014&id=live1182
-北京影视,http://103.45.68.47:666/gy/gy_lYcgFa/mkjd.php?ip=61.48.132.122:8014&id=live1417
-北京生活,http://103.45.68.47:666/gy/gy_lYcgFa/mkjd.php?ip=61.48.132.122:8014&id=live1229
 湖南卫视,http://103.45.68.47:666/gy/gy_lYcgFa/mkjd.php?ip=61.48.132.122:8014&id=hunanws
 浙江卫视,http://103.45.68.47:666/gy/gy_lYcgFa/mkjd.php?ip=61.48.132.122:8014&id=zjws
 江苏卫视,http://103.45.68.47:666/gy/gy_lYcgFa/mkjd.php?ip=61.48.132.122:8014&id=jsws
@@ -181,15 +175,12 @@ CCTV17,http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
 东方卫视,http://103.45.68.47:666/gy/gy_lYcgFa/mkjd.php?ip=61.48.132.122:8014&id=dfws
 广东卫视,http://103.45.68.47:666/gy/gy_lYcgFa/mkjd.php?ip=61.48.132.122:8014&id=gdws
 天津卫视,http://103.45.68.47:666/gy/gy_lYcgFa/mkjd.php?ip=61.48.132.122:8014&id=tjws
-淘电影,http://103.45.68.47:666/gy/gy_lYcgFa/mkjd.php?ip=61.48.132.122:8014&id=live1644
 东南卫视,http://103.45.68.47:666/gy/gy_lYcgFa/mkjd.php?ip=61.48.132.122:8014&id=dnws
-卡酷少儿,http://103.45.68.47:666/gy/gy_lYcgFa/mkjd.php?ip=61.48.132.122:8014&id=live1558
 陕西卫视,http://103.45.68.47:666/gy/gy_lYcgFa/mkjd.php?ip=61.48.132.122:8014&id=shxws
 山东卫视,http://103.45.68.47:666/gy/gy_lYcgFa/mkjd.php?ip=61.48.132.122:8014&id=sdws
 黑龙江卫视,http://103.45.68.47:666/gy/gy_lYcgFa/mkjd.php?ip=61.48.132.122:8014&id=hljws
 安徽卫视,http://103.45.68.47:666/gy/gy_lYcgFa/mkjd.php?ip=61.48.132.122:8014&id=ahws
 辽宁卫视,http://103.45.68.47:666/gy/gy_lYcgFa/mkjd.php?ip=61.48.132.122:8014&id=lnws
-家庭影院,http://103.45.68.47:666/gy/gy_lYcgFa/mkjd.php?ip=61.48.132.122:8014&id=live1600
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
@@ -204,8 +195,6 @@ CCTV17,http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8?
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
