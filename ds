@@ -85,6 +85,22 @@ CCTV16,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002395/i
 CCTV17,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001301/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV17,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+CCTV1,http://110.72.80.77:808/hls/54/index.m3u8
+CCTV2,http://110.72.80.77:808/hls/97/index.m3u8
+CCTV3,http://110.72.80.77:808/hls/37/index.m3u8
+CCTV4,http://110.72.80.77:808/hls/113/index.m3u8
+CCTV5,http://110.72.80.77:808/hls/38/index.m3u8
+CCTV6,http://110.72.80.77:808/hls/39/index.m3u8
+CCTV7,http://110.72.80.77:808/hls/98/index.m3u8
+CCTV8,http://110.72.80.77:808/hls/40/index.m3u8
+CCTV9,http://110.72.80.77:808/hls/119/index.m3u8
+CCTV10,http://110.72.80.77:808/hls/99/index.m3u8
+CCTV11,http://110.72.80.77:808/hls/100/index.m3u8
+CCTV12,http://110.72.80.77:808/hls/101/index.m3u8
+CCTV13,http://110.72.80.77:808/hls/106/index.m3u8
+CCTV14,http://110.72.80.77:808/hls/105/index.m3u8
+CCTV15,http://110.72.80.77:808/hls/102/index.m3u8
+
 CCTV1,mitv://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
 CCTV2,mitv://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
 CCTV3,mitv://generationnexxxt.com:19806/784f6703531044be9cee14b793948d30
