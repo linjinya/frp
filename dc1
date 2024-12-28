@@ -1,66 +1,25 @@
 { 
  "urls": [
- {
- "url": "http://100km.top/0", "name": "100KM"
- },
- {
- "url": "https://ghgo.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json", "name": "月光宝盒"
- },
- {
- "url": "https://ghgo.xyz/https://raw.githubusercontent.com/guot55/yg/main/max.json", "name": "月光线路"
- },
- {
- "url": "https://www.iyouhun.com/tv/4", "name": "余生"
- },
- {
- "url": "https://www.iyouhun.com/tv/6", "name": "OK影视"
- },
- {
- "url": "https://www.iyouhun.com/tv/9", "name": "无意云"
- },
- {
- "url": "https://盒子迷.top/禁止贩卖", "name": "盒子迷线路"
- },
- {
- "url": "https://weixine.net/ysc.json", "name": "影视车运输"
- },
- {
- "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧技线路"
- },
- {
- "url": "http://肥猫.com", "name": "肥猫线路"
- },
- {
- "url": "http://www.mpanso.com/小米/DEMO.json", "name": "小米线路"
- },
- {
- "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top", "name": "放牛线路"
- },
- {
- "url": "http://我不是.摸鱼儿.com", "name": "摸鱼线路"
- },
- {
- "url": "https://ghgo.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json", "name": "南风线路"
- },
- {
- "url": "https://ghgo.xyz/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json", "name": "荷城茶秀"
- },
- {
- "url": "https://ghgo.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json","name": "香雅情"
- },
- {
- "url": "https://ghgo.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", "name": "高天流云"
- },
- {
- "url": "https://ghgo.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/pg/jsm.json", "name": "PG线路"
- },
- {
- "url": "https://tv.xn--11x555b.top/svip", "name": "蜗牛线路"
- },
- {
- "url": "https://ghgo.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", "name": "高山流水"
- },
- {
- "url": "https://fmbox.cc","name": "星辰线路"
- }]
- }
+ { "url": "http://100km.top/0", "name": "100KM" },
+ { "url": "https://ghgo.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json", "name": "月光宝盒" },
+ { "url": "https://ghgo.xyz/https://raw.githubusercontent.com/guot55/yg/main/max.json", "name": "月光线路" },
+ { "url": "https://www.iyouhun.com/tv/4", "name": "余生" },
+ { "url": "https://www.iyouhun.com/tv/6", "name": "OK影视" },
+ { "url": "https://www.iyouhun.com/tv/9", "name": "无意云" },
+ { "url": "https://盒子迷.top/禁止贩卖", "name": "盒子迷线路" },
+ { "url": "https://weixine.net/ysc.json", "name": "影视车运输" },
+ { "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧技线路" },
+ { "url": "http://肥猫.com", "name": "肥猫线路" },
+ { "url": "http://www.mpanso.com/小米/DEMO.json", "name": "小米线路" },
+ { "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top", "name": "放牛线路" },
+ { "url": "http://我不是.摸鱼儿.com", "name": "摸鱼线路" },
+ { "url": "https://ghgo.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json", "name": "南风线路" },
+ { "url": "https://ghgo.xyz/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json", "name": "荷城茶秀" },
+ { "url": "https://ghgo.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json","name": "香雅情" },
+ { "url": "https://ghgo.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", "name": "高天流云" },
+ { "url": "https://ghgo.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/pg/jsm.json", "name": "PG线路" },
+ { "url": "https://tv.xn--11x555b.top/svip", "name": "蜗牛线路" },
+ { "url": "https://ghgo.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", "name": "高山流水" },
+ { "url": "https://fmbox.cc","name": "星辰线路" }
+ ]
+}
