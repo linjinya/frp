@@ -1,6 +1,7 @@
 { 
  "urls": [
- { "url": "http://100km.top/0", "name": "100KM" },
+ { "url": "https://ghgo.xyz/https://raw.githubusercontent.com/linjinya/frp/master/100km", "name": "100KM" },
+ { "url": "http://100km.top/0", "name": "100KM-TV" },
  { "url": "http://www.饭太硬.com/tv", "name": "饭太硬" },
  { "url": "http://pandown.pro/tvbox/tvbox.json", "name": "pandown" },
  { "url": "https://ghgo.xyz/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json", "name": "宝盒汇" },
