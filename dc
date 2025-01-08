@@ -15,7 +15,7 @@
  { "url": "http://肥猫.com", "name": "肥猫线路" },
  { "url": "http://xhztv.top/xhz", "name": "小盒子" },
  { "url": "https://szyyds.cn/tv/x.json", "name": "小马" },
- { "url": "https://fmbox.cc","name": "星辰线路" }
+ { "url": "https://fmbox.cc","name": "星辰线路" },
  { "url": "https://700sjro44343.vicp.fun/vip/vip/tv.json", "name": "不具名线路" },
  { "url": "http://pandown.pro/tvbox/tvbox.json", "name": "南瓜" },
  { "url": "https://raw.liucn.cc/box/m.json", "name": "老刘备" },
@@ -40,6 +40,6 @@
  { "url": "http://64.112.42.49:6688/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/master/hccx.json", "name": "荷城茶秀" },
  { "url": "http://64.112.42.49:6688/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", "name": "高天流云" },
  { "url": "http://64.112.42.49:6688/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/pg/jsm.json", "name": "PG线路" },
- { "url": "http://64.112.42.49:6688/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", "name": "高山流水" },
+ { "url": "http://64.112.42.49:6688/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", "name": "高山流水" }
  ]
 }
