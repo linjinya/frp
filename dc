@@ -1,5 +1,6 @@
 { 
  "urls": [
+ { "url": "http://yuan.haitangw.net/tv/", "name": "科技长青" },
  { "url": "http://7337.kstore.space/twvip/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json", "name": "天微" },
  { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/master/box原.json", "name": "宝盒视界" },
  { "url": " https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm2.json", "name": "【宝盒视界】" },   
