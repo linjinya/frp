@@ -1,7 +1,5 @@
 { 
  "urls": [
- { "url": "https://ghfast.top/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/demo.json", "name": "蜂蜜  " },
- { "url": "http://fmys.top/fmys.json", "name": "驸马影视" },
  { "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧记Box " },
  { "url": "https://chuanshuo.77blog.cn/tv.json", "name": "传说blog" },
  { "url": " https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json", "name": "蓝天" },
@@ -16,6 +14,8 @@
  { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/master/pg/bh.json", "name": "月光宝盒" },
  { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/XYQTVBox/xyq.json","name": "香雅情" },
  { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/dxtop/box/master/dx/tv.json", "name": "龙门影视" },
+ { "url": "https://ghfast.top/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/demo.json", "name": "蜂蜜  " },
+ { "url": "http://fmys.top/fmys.json", "name": "驸马影视" },
  { "url": "http://yuan.haitangw.net/tv/", "name": "科技长青" },
  { "url": "http://100km.top/0", "name": "飘零" },
  { "url": "http://meowtv.cn/tv", "name": "喵影视" },
