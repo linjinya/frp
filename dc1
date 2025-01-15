@@ -1,6 +1,7 @@
 { 
  "urls": [
- { "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧记Box " },
+ { "url": "clan://localhost/tvbox/jsm.json", "name": "本地仓 " }, 
+ { "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧记Box " },   
  { "url": "https://chuanshuo.77blog.cn/tv.json", "name": "传说blog" },
  { "url": " https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json", "name": "蓝天" },
  { "url": "http://124.71.189.194/a.json", "name": "小白龙" },
