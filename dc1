@@ -1,7 +1,7 @@
 { 
  "urls": [ 
- { "url": "clan://localhost/tvbox1/宝盒/bh.json", "name": "宝盒本地仓 " }, 
- { "url": "clan://localhost/tvbox1/开心/omg.json", "name": "开心本地仓 " },
+ { "url": "clan://localhost/tvbox/宝盒/bh.json", "name": "宝盒本地仓 " }, 
+ { "url": "clan://localhost/tvbox/开心/omg.json", "name": "开心本地仓 " },
  { "url": "clan://localhost/tvbox/jsm.json", "name": "PG本地仓 " },
  { "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧记Box " },   
  { "url": "https://chuanshuo.77blog.cn/tv.json", "name": "传说blog" },
