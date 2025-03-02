@@ -1,10 +1,27 @@
 {
- "urls":[
-  { "name":"💛  本地仓库  🍭","url":"clan://localhost/tvbox/sgdc.json" }, 
-  { "name":"❤️   林佳琪   🍭","url":"https://gh.three2all.com/https://raw.githubusercontent.com/linjinya/frp/master/dc1" },
-  { "name":"💛  月光宝盒  🍭","url":"https://3043.kstore.space/bhvip/bh/max.json" },
-  { "name":"💚   小盒子   🍭","url":"http://xhztv.top/dc" },
-  { "name":"💎  365仓库   🍭","url":"https://play.iptv365.org/tvbox.txt" },
-  { "name":"💛  七星宝盒  🍭","url":"https://qixing.myhkw.com/DC.txt" }
-]
+    "storeHouse": [
+    {
+        "sourceName": "🌹💛本地仓库💛🌹",
+        "sourceUrl": "clan://localhost/tvbox/sgdc.json"
+    },
+    {
+        "sourceName": "🌹❤️ 林佳琪 ❤️🌹",
+        "sourceUrl": "https://gh.three2all.com/https://raw.githubusercontent.com/linjinya/frp/master/dc1"
+    },
+    {
+        "sourceName": "🌹💚月光宝盒💚🌹",
+        "sourceUrl": "https://3043.kstore.space/bhvip/bh/max.json"
+    },
+    {
+        "sourceName": "🌹💛 小盒子 💛🌹",
+        "sourceUrl": "http://xhztv.top/dc"
+    },
+    {
+        "sourceName": "🌹💎 365仓库 💎🌹",
+        "sourceUrl": "https://play.iptv365.org/tvbox.txt"
+     },
+    {
+        "sourceName": "🌹💛七星 宝盒💛🌹",
+        "sourceUrl": "https://qixing.myhkw.com/DC.txt"
+    }]
 }
