@@ -2,6 +2,7 @@
  "urls": [ 
  { "url": "http://xhztv.top/4k.json", "name": "小盒子4K"}, 
  { "url": "https://tv.203511.xyz/0821.json", "name": "荐片"},   
+ { "url": "https://xn--sdds-rp5imh.v.nxog.top/apitv.php?id=3", "name": "欧歌" },
  { "url": "https://raw.liucn.cc/box/m.json", "name": "ok" },
  { "url": "http://fty.888484.xyz/tv", "name": "饭太硬"},
  { "url": "http://feimao.pro", "name": "肥猫"},
